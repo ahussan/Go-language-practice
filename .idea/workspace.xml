@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="113aac6a-adcb-4958-89f1-4cecfe28e6d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/HelloWorld/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/Numerals/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/For_Loops/For-conditional_like_While_LooP.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/For_Loops/ForContinueAndBreak.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/For_Loops/ForLoopWIthNoCondition.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/For_Loops/NestedForLoop.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/For_Loops/simpleForLoop.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/IF_Else/Eval_true.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/IF_Else/Init_Statement.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/IF_Else/Not_UsingExclamation.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GOPractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,26 +32,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examples/HelloWorld/main.go">
+      <file leaf-file-name="Eval_true.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/IF_Else/Eval_true.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Examples/Numerals/main.go">
+      <file leaf-file-name="Not_UsingExclamation.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/IF_Else/Not_UsingExclamation.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Init_Statement.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Examples/IF_Else/Init_Statement.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,6 +84,14 @@
       <list>
         <option value="$PROJECT_DIR$/Examples/HelloWorld/main.go" />
         <option value="$PROJECT_DIR$/Examples/Numerals/main.go" />
+        <option value="$PROJECT_DIR$/Examples/For_Loops/simpleForLoop.go" />
+        <option value="$PROJECT_DIR$/Examples/For_Loops/NestedForLoop.go" />
+        <option value="$PROJECT_DIR$/Examples/For_Loops/For-conditional_like_While_LooP.go" />
+        <option value="$PROJECT_DIR$/Examples/For_Loops/ForLoopWIthNoCondition.go" />
+        <option value="$PROJECT_DIR$/Examples/For_Loops/ForContinueAndBreak.go" />
+        <option value="$PROJECT_DIR$/Examples/IF_Else/Eval_true.go" />
+        <option value="$PROJECT_DIR$/Examples/IF_Else/Not_UsingExclamation.go" />
+        <option value="$PROJECT_DIR$/Examples/IF_Else/Init_Statement.go" />
       </list>
     </option>
   </component>
@@ -88,10 +108,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1139" />
-    <option name="y" value="-1409" />
+    <option name="x" value="208" />
+    <option name="y" value="-1343" />
     <option name="width" value="1280" />
-    <option name="height" value="1142" />
+    <option name="height" value="1308" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -121,7 +141,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -143,10 +164,6 @@
               <option name="myItemId" value="Examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Numerals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -159,6 +176,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IF_Else" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -174,8 +195,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,17 +204,35 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
   </component>
-  <component name="RunManager" selected="Go Single File.go run main.go (1)">
-    <configuration default="false" name="go run main.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+  <component name="RunManager" selected="Go Single File.go run Init_Statement.go">
+    <configuration default="false" name="go run ForLoopWIthNoCondition.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="GOPractice" />
       <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Examples/HelloWorld/main.go" />
+      <filePath value="$PROJECT_DIR$/Examples/For_Loops/ForLoopWIthNoCondition.go" />
       <method />
     </configuration>
-    <configuration default="false" name="go run main.go (1)" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+    <configuration default="false" name="go run ForContinueAndBreak.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="GOPractice" />
       <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Examples/Numerals/main.go" />
+      <filePath value="$PROJECT_DIR$/Examples/For_Loops/ForContinueAndBreak.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run Eval_true.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GOPractice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Examples/IF_Else/Eval_true.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run Not_UsingExclamation.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GOPractice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Examples/IF_Else/Not_UsingExclamation.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run Init_Statement.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GOPractice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Examples/IF_Else/Init_Statement.go" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -596,6 +634,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -618,14 +669,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run main.go (1)" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Go Single File.go run ForLoopWIthNoCondition.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run ForContinueAndBreak.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run Eval_true.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run Not_UsingExclamation.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run Init_Statement.go" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run main.go (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run Init_Statement.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run Not_UsingExclamation.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run Eval_true.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run ForContinueAndBreak.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run ForLoopWIthNoCondition.go" />
       </list>
     </recent_temporary>
   </component>
@@ -640,15 +697,16 @@
       <option name="presentableId" value="Default" />
       <updated>1463592094433</updated>
       <workItem from="1463592095822" duration="151000" />
-      <workItem from="1463592248286" duration="114000" />
+      <workItem from="1463592248286" duration="617000" />
+      <workItem from="1463597092677" duration="2295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265000" />
+    <option name="totallyTimeSpent" value="3063000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1139" y="-1409" width="1280" height="1142" extended-state="0" />
+    <frame x="208" y="-1343" width="1280" height="1308" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -658,8 +716,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32910156" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2831933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -695,10 +753,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/HelloWorld/main.go">
+    <entry file="file://$PROJECT_DIR$/Examples/For_Loops/ForContinueAndBreak.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/For_Loops/ForLoopWIthNoCondition.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/For_Loops/For-conditional_like_While_LooP.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/For_Loops/NestedForLoop.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/For_Loops/simpleForLoop.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
@@ -712,6 +808,40 @@
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/HelloWorld/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/IF_Else/Eval_true.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/IF_Else/Not_UsingExclamation.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/IF_Else/Init_Statement.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
